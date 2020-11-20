@@ -1,1 +1,192 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on vincent-gou (fr)</title><link>https://vincent-gou.github.io/tags/</link><description>Recent content in Tags on vincent-gou (fr)</description><generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>Tous droits reserves: Vincent Gourrierec</copyright><lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://vincent-gou.github.io/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>best-pratices</title><link>https://vincent-gou.github.io/tags/best-pratices/</link><pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate><guid>https://vincent-gou.github.io/tags/best-pratices/</guid><description/></item><item><title>CentOS</title><link>https://vincent-gou.github.io/tags/centos/</link><pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate><guid>https://vincent-gou.github.io/tags/centos/</guid><description/></item><item><title>Red-Hat</title><link>https://vincent-gou.github.io/tags/red-hat/</link><pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate><guid>https://vincent-gou.github.io/tags/red-hat/</guid><description/></item><item><title>grafana</title><link>https://vincent-gou.github.io/tags/grafana/</link><pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate><guid>https://vincent-gou.github.io/tags/grafana/</guid><description/></item><item><title>loki</title><link>https://vincent-gou.github.io/tags/loki/</link><pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate><guid>https://vincent-gou.github.io/tags/loki/</guid><description/></item><item><title>promtail</title><link>https://vincent-gou.github.io/tags/promtail/</link><pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate><guid>https://vincent-gou.github.io/tags/promtail/</guid><description/></item><item><title>linux</title><link>https://vincent-gou.github.io/tags/linux/</link><pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate><guid>https://vincent-gou.github.io/tags/linux/</guid><description/></item><item><title>securite</title><link>https://vincent-gou.github.io/tags/securite/</link><pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate><guid>https://vincent-gou.github.io/tags/securite/</guid><description/></item><item><title>sftp</title><link>https://vincent-gou.github.io/tags/sftp/</link><pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate><guid>https://vincent-gou.github.io/tags/sftp/</guid><description/></item><item><title>docker</title><link>https://vincent-gou.github.io/tags/docker/</link><pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate><guid>https://vincent-gou.github.io/tags/docker/</guid><description/></item><item><title>nextcloud</title><link>https://vincent-gou.github.io/tags/nextcloud/</link><pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate><guid>https://vincent-gou.github.io/tags/nextcloud/</guid><description/></item><item><title>accueil</title><link>https://vincent-gou.github.io/tags/accueil/</link><pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate><guid>https://vincent-gou.github.io/tags/accueil/</guid><description/></item><item><title>deploiement</title><link>https://vincent-gou.github.io/tags/deploiement/</link><pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate><guid>https://vincent-gou.github.io/tags/deploiement/</guid><description/></item><item><title>extranet</title><link>https://vincent-gou.github.io/tags/extranet/</link><pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate><guid>https://vincent-gou.github.io/tags/extranet/</guid><description/></item><item><title>integration</title><link>https://vincent-gou.github.io/tags/integration/</link><pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate><guid>https://vincent-gou.github.io/tags/integration/</guid><description/></item><item><title>servicenav</title><link>https://vincent-gou.github.io/tags/servicenav/</link><pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate><guid>https://vincent-gou.github.io/tags/servicenav/</guid><description/></item><item><title>sopra</title><link>https://vincent-gou.github.io/tags/sopra/</link><pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate><guid>https://vincent-gou.github.io/tags/sopra/</guid><description/></item><item><title>architecture</title><link>https://vincent-gou.github.io/tags/architecture/</link><pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate><guid>https://vincent-gou.github.io/tags/architecture/</guid><description/></item><item><title>diagrammes</title><link>https://vincent-gou.github.io/tags/diagrammes/</link><pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate><guid>https://vincent-gou.github.io/tags/diagrammes/</guid><description/></item><item><title>draw.io</title><link>https://vincent-gou.github.io/tags/draw.io/</link><pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate><guid>https://vincent-gou.github.io/tags/draw.io/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on vincent-gou (fr)</title>
+    <link>https://vincent-gou.github.io/tags/</link>
+    <description>Recent content in Tags on vincent-gou (fr)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>Tous droits reserves: Vincent Gourrierec</copyright>
+    <lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://vincent-gou.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>best-pratices</title>
+      <link>https://vincent-gou.github.io/tags/best-pratices/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincent-gou.github.io/tags/best-pratices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CentOS</title>
+      <link>https://vincent-gou.github.io/tags/centos/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincent-gou.github.io/tags/centos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Red-Hat</title>
+      <link>https://vincent-gou.github.io/tags/red-hat/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincent-gou.github.io/tags/red-hat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grafana</title>
+      <link>https://vincent-gou.github.io/tags/grafana/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincent-gou.github.io/tags/grafana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>loki</title>
+      <link>https://vincent-gou.github.io/tags/loki/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincent-gou.github.io/tags/loki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>promtail</title>
+      <link>https://vincent-gou.github.io/tags/promtail/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincent-gou.github.io/tags/promtail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://vincent-gou.github.io/tags/linux/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincent-gou.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>securite</title>
+      <link>https://vincent-gou.github.io/tags/securite/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincent-gou.github.io/tags/securite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sftp</title>
+      <link>https://vincent-gou.github.io/tags/sftp/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincent-gou.github.io/tags/sftp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>https://vincent-gou.github.io/tags/docker/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincent-gou.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nextcloud</title>
+      <link>https://vincent-gou.github.io/tags/nextcloud/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincent-gou.github.io/tags/nextcloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>accueil</title>
+      <link>https://vincent-gou.github.io/tags/accueil/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincent-gou.github.io/tags/accueil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deploiement</title>
+      <link>https://vincent-gou.github.io/tags/deploiement/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincent-gou.github.io/tags/deploiement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>extranet</title>
+      <link>https://vincent-gou.github.io/tags/extranet/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincent-gou.github.io/tags/extranet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>integration</title>
+      <link>https://vincent-gou.github.io/tags/integration/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincent-gou.github.io/tags/integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>servicenav</title>
+      <link>https://vincent-gou.github.io/tags/servicenav/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincent-gou.github.io/tags/servicenav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sopra</title>
+      <link>https://vincent-gou.github.io/tags/sopra/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincent-gou.github.io/tags/sopra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>architecture</title>
+      <link>https://vincent-gou.github.io/tags/architecture/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincent-gou.github.io/tags/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diagrammes</title>
+      <link>https://vincent-gou.github.io/tags/diagrammes/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincent-gou.github.io/tags/diagrammes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>draw.io</title>
+      <link>https://vincent-gou.github.io/tags/draw.io/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincent-gou.github.io/tags/draw.io/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

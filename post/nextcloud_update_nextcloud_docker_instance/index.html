@@ -1,8 +1,183 @@
-<!doctype html><html lang=fr><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Update Nextcloud Docker instance</title><style>html body{font-family:raleway,sans-serif;background-color:#656565}:root{--accent: #cc9933;--border-width:  5px }</style><link rel=stylesheet href=https://vincent-gou.github.io/css/main.css><link rel=stylesheet href="https://fonts.googleapis.com/css?family=Raleway"><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/solarized-dark.min.css><link rel=stylesheet href=https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css integrity=sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u crossorigin=anonymous><link rel=stylesheet href=https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css integrity=sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN crossorigin=anonymous><script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js></script><script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/go.min.js></script><script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/haskell.min.js></script><script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/kotlin.min.js></script><script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/scala.min.js></script><script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/swift.min.js></script><script>hljs.initHighlightingOnLoad();</script><script src=https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js></script><script src=https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js integrity=sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa crossorigin=anonymous></script><script>$(document).on('click',function(){$('.collapse').collapse('hide');})</script><meta name=generator content="Hugo 0.78.2"></head><script type=text/javascript async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script><body><a class=flagselect href=/post/nextcloud_update_nextcloud_docker_instance/>fr🇫🇷</a><nav class="navbar navbar-default navbar-fixed-top"><div class=container><div class=navbar-header><a class="navbar-brand visible-xs" href=#>Update Nextcloud Docker instance</a>
-<button class=navbar-toggle data-target=.navbar-collapse data-toggle=collapse>
-<span class=icon-bar></span><span class=icon-bar></span><span class=icon-bar></span></button></div><div class="collapse navbar-collapse"><ul class="nav navbar-nav"><li><a href=/>Accueil</a></li><li><a href=/project/>Projets</a></li><li><a href=/post/>Articles</a></li><li><a href=/tags/>Tags</a></li><li><a href=/calendar/>Calendrier</a></li></ul><ul class="nav navbar-nav navbar-right"><li class=navbar-icon><a href=mailto:contact@vincent-gou.fr><i class="fa fa-envelope-o"></i></a></li><li class=navbar-icon><a href=https://github.com/vincent-gou/><i class="fa fa-github"></i></a></li><li class=navbar-icon><a href=https://www.linkedin.com/in/vincent-gou/><i class="fa fa-linkedin"></i></a></li><li class=navbar-icon><a href=https://www.malt.fr/profile/vincentgourrierec/><i class="fa fa-certificate"></i></a></li></ul></div></div></nav><h4 class=page_info>Informations sur la page:</h4><h6 class=page_info>Cet article contient 198 mots.</br>Comptez une minute de temps de lecture</h6><main><div class=item><h4><a href=/post/nextcloud_update_nextcloud_docker_instance/>Update Nextcloud Docker instance</a></h4><h5>March 18, 2019</h5><a href=https://vincent-gou.github.io/tags/nextcloud><kbd class=item-tag>nextcloud</kbd></a>
-<a href=https://vincent-gou.github.io/tags/docker><kbd class=item-tag>docker</kbd></a></div><br><div class=text-justify><h1 id=update-nextcloud-docker-instance-steps>Update Nextcloud Docker instance steps</h1><p>This document may be used to update nextcloud instance.</p><h1 id=pre-requisities>Pre-requisities</h1><ul><li>Docker</li><li>Nextcloud instance</li><li>Linux server</li><li>Nextcloud data and config files in external location</li></ul><h1 id=update-steps>Update steps</h1><h2 id=update-nextcloud-docker-image>Update nextcloud Docker Image</h2><pre><code>[root@nas /opt/docker]# docker pull nextcloud
-</code></pre><pre><code>Using default tag: latest
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+         
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Update Nextcloud Docker instance</title>
+        
+        <style>
+
+    html body {
+        font-family: 'Raleway', sans-serif;
+        background-color: #656565;
+    }
+
+    :root {
+        --accent: #cc9933;
+        --border-width:  5px ;
+    }
+
+</style>
+
+
+<link rel="stylesheet" href="https://vincent-gou.github.io/css/main.css">
+
+
+
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+
+
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/solarized-dark.min.css"> 
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+ 
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/go.min.js"></script>  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/haskell.min.js"></script>  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/kotlin.min.js"></script>  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/scala.min.js"></script>  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/swift.min.js"></script> 
+
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+<script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
+ <meta name="generator" content="Hugo 0.78.2" />
+        
+
+        
+    </head>
+
+    
+    
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    
+
+    <body>
+        
+
+    
+            
+                <a class="flagselect" href="/post/nextcloud_update_nextcloud_docker_instance/">fr🇫🇷</a>
+            
+  
+        <nav class="navbar navbar-default navbar-fixed-top">
+
+            <div class="container">
+
+                <div class="navbar-header">
+
+                    <a class="navbar-brand visible-xs" href="#">Update Nextcloud Docker instance</a>
+
+                    <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+
+                </div>
+
+                <div class="collapse navbar-collapse">
+
+                    
+                        <ul class="nav navbar-nav">
+                            
+                                <li><a href="/">Accueil</a></li>
+                            
+                                <li><a href="/project/">Projets</a></li>
+                            
+                                <li><a href="/post/">Articles</a></li>
+                            
+                                <li><a href="/tags/">Tags</a></li>
+                            
+                                <li><a href="/calendar/">Calendrier</a></li>
+                            
+                        </ul>
+                    
+
+                    
+                        <ul class="nav navbar-nav navbar-right">
+                            
+                                <li class="navbar-icon"><a href="mailto:contact@vincent-gou.fr"><i class="fa fa-envelope-o"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://github.com/vincent-gou/"><i class="fa fa-github"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://www.linkedin.com/in/vincent-gou/"><i class="fa fa-linkedin"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://www.malt.fr/profile/vincentgourrierec/"><i class="fa fa-certificate"></i></a></li>
+                            
+                        </ul>
+                    
+
+                </div>
+
+            </div>
+
+        </nav>
+
+
+
+
+<h4 class="page_info">Informations sur la page: </h4>
+<h6 class="page_info">  Cet article contient 198 mots. </br>  Comptez une minute de temps de lecture</h6>
+
+
+
+<main>
+
+    <div class="item">
+
+    
+    
+    
+
+    
+    
+
+    <h4><a href="/post/nextcloud_update_nextcloud_docker_instance/">Update Nextcloud Docker instance</a></h4>
+    <h5>March 18, 2019</h5>
+    
+    <a href="https://vincent-gou.github.io/tags/nextcloud"><kbd class="item-tag">nextcloud</kbd></a>
+    
+    <a href="https://vincent-gou.github.io/tags/docker"><kbd class="item-tag">docker</kbd></a>
+    
+
+</div>
+
+
+    <br> <div class="text-justify"><h1 id="update-nextcloud-docker-instance-steps">Update Nextcloud Docker instance steps</h1>
+<p>This document may be used to update nextcloud instance.</p>
+<h1 id="pre-requisities">Pre-requisities</h1>
+<ul>
+<li>Docker</li>
+<li>Nextcloud instance</li>
+<li>Linux server</li>
+<li>Nextcloud data and config files in external location</li>
+</ul>
+<h1 id="update-steps">Update steps</h1>
+<h2 id="update-nextcloud-docker-image">Update nextcloud Docker Image</h2>
+<pre><code>[root@nas /opt/docker]# docker pull nextcloud
+</code></pre>
+<pre><code>Using default tag: latest
 latest: Pulling from library/nextcloud
 f7e2b70d04ae: Pull complete
 744aedb7995c: Pull complete
@@ -26,14 +201,78 @@ ad044e6f6c56: Pull complete
 20144f3a754f: Pull complete
 Digest: sha256:4c3a690b1771ba414c0a347514baae52dae3ec34feb747d5db0c4188d8462562
 Status: Downloaded newer image for nextcloud:latest
-</code></pre><h2 id=stop-nextcloud-docker-instance>Stop Nextcloud docker instance</h2><pre><code>[root@nas ~]# docker stop nextcloud
-</code></pre><h2 id=remove-nextcloud-docker-instance>Remove Nextcloud docker instance</h2><pre><code>[root@nas ~]# docker rm nextcloud
-</code></pre><h2 id=start-nextcloud-docker-instance>Start Nextcloud Docker instance</h2><pre><code>[root@nas ~]# docker start nextcloud
-</code></pre><pre><code>[root@nas docker]# ./docker_nextcloud.sh
+</code></pre><h2 id="stop-nextcloud-docker-instance">Stop Nextcloud docker instance</h2>
+<pre><code>[root@nas ~]# docker stop nextcloud
+</code></pre>
+<h2 id="remove-nextcloud-docker-instance">Remove Nextcloud docker instance</h2>
+<pre><code>[root@nas ~]# docker rm nextcloud
+</code></pre>
+<h2 id="start-nextcloud-docker-instance">Start Nextcloud Docker instance</h2>
+<pre><code>[root@nas ~]# docker start nextcloud
+</code></pre>
+<pre><code>[root@nas docker]# ./docker_nextcloud.sh
 7174c3c3395473a01bea0ce38e828526f253772e1a98e4932134247e55427a45
 [root@nas docker]#
-</code></pre><h2 id=control-nextcloud-update-logs>Control Nextcloud Update Logs</h2><pre><code>[root@nas docker]# docker logs nextcloud
+</code></pre><h2 id="control-nextcloud-update-logs">Control Nextcloud Update Logs</h2>
+<pre><code>[root@nas docker]# docker logs nextcloud
 Initializing nextcloud 15.0.5.3 ...
 Upgrading nextcloud from 15.0.2.0 ...
-</code></pre><h2 id=final-setup>Final setup</h2><p>Once update is finished, connect Nextcloud and check plugin app updates manually.</p><p>Some apps may have been disabled during update process.</p><p>You will have to activate them manually.</p><p>Enjoy !</p></div><h4 class=page-header>Voir aussi::</h4><div class=item><h4><a href=/post/nextcloud_manual_upgrade_after_docker_update/>Upgrade manuel de Nextcloud après une mise à jour de l'instance Nextcloud sous Docker</a></h4><h5>March 18, 2019</h5><a href=https://vincent-gou.github.io/tags/nextcloud><kbd class=item-tag>nextcloud</kbd></a>
-<a href=https://vincent-gou.github.io/tags/docker><kbd class=item-tag>docker</kbd></a></div><h4 class=page-header>Auteur:</h4><figure><img class=avatar src=../../../images/vincent.fr.png alt><figcaption><a href=https://vincent-gou.github.io/authors/vincent-gourrierec/>Vincent Gourrierec</a></figcaption></figure></main><footer><p class="copyright text-muted">2020 - © All rights reserved. Powered by <a href=https://gohugo.io>Hugo</a> and <a href=https://github.com/calintat/minimal>Minimal</a> theme and [Vincent Gourrierec] (<a href=https://vincent-gou.fr>https://vincent-gou.fr</a>)</p></footer></body></html>
+</code></pre><h2 id="final-setup">Final setup</h2>
+<p>Once update is finished, connect Nextcloud and check plugin app updates manually.</p>
+<p>Some apps may have been disabled during update process.</p>
+<p>You will have to activate them manually.</p>
+<p>Enjoy !</p>
+</div>
+
+    
+    
+
+    
+
+        <h4 class="page-header">Voir aussi::</h4>
+
+         <div class="item">
+
+    
+    
+    
+
+    
+    
+
+    <h4><a href="/post/nextcloud_manual_upgrade_after_docker_update/">Upgrade manuel de Nextcloud après une mise à jour de l&#39;instance Nextcloud sous Docker</a></h4>
+    <h5>March 18, 2019</h5>
+    
+    <a href="https://vincent-gou.github.io/tags/nextcloud"><kbd class="item-tag">nextcloud</kbd></a>
+    
+    <a href="https://vincent-gou.github.io/tags/docker"><kbd class="item-tag">docker</kbd></a>
+    
+
+</div>
+ 
+
+    
+
+    
+<h4 class="page-header">Auteur:</h4>
+    <figure>
+      <img class="avatar" src="../../../images/vincent.fr.png" alt=""/>
+      <figcaption>
+        <a href="https://vincent-gou.github.io/authors/vincent-gourrierec/">Vincent Gourrierec</a>
+      </figcaption>
+    </figure>
+  
+
+
+</main>
+
+        <footer>
+
+            <p class="copyright text-muted">2020 - © All rights reserved. Powered by <a href="https://gohugo.io">Hugo</a> and <a href="https://github.com/calintat/minimal">Minimal</a> theme and [Vincent Gourrierec] (<a href="https://vincent-gou.fr">https://vincent-gou.fr</a>)</p>
+
+        </footer>
+
+    </body>
+
+</html>
+
