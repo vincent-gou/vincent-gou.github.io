@@ -3,4 +3,4 @@ Pré-requis NSSM, téléchargeable ici: https://nssm.cc/release/nssm-2.24.zip
 promtail pour Windows, téléchargeable ici: https://github.com/grafana/loki/releases
 Configuration promtail fonctionnelle (fichier de config yml)
 Préparation Décompressez les sources NSSM et placez les dans le répertoire ou se trouve promtail
-NOTE:Pour les besoins de cet exemple, l’emplacement commun à promtail et nssm sera &amp;#34;c:\Program Files\telegraf\&amp;#34;</description></item></channel></rss>
+Note Pour les besoins de cet exemple, l’emplacement commun à promtail et nssm sera &amp;#34;c:\Program Files\telegraf\&amp;#34; Création du service promtail Lancez une commande Windows, puis tapez les commandes suivantes:</description></item></channel></rss>
