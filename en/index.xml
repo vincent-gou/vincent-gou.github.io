@@ -8,4 +8,4 @@ Pre-requisities Docker
 Nextcloud instance
 Linux server
 Nextcloud data and config files in external location
-Update steps Connect Nextcloud docker container [root@nas docker]# docker exec --user www-data -it nextcloud bash Control Nextcloud version www-data@e73fd289077c:~/html$ php occ status Nextcloud or one of the apps require upgrade - only a limited number of commands are available You may use your browser or the occ upgrade command to do the upgrade - installed: true - version: 15.</description></item><item><title/><link>https://www.vincent-gou.fr/en/authors/vincent-gourrierec/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/en/authors/vincent-gourrierec/</guid><description/></item></channel></rss>
+Update steps Connect Nextcloud docker container [root@nas docker]# docker exec --user www-data -it nextcloud bash Control Nextcloud version www-data@e73fd289077c:~/html$ php occ status Nextcloud or one of the apps require upgrade - only a limited number of commands are available You may use your browser or the occ upgrade command to do the upgrade - installed: true - version: 15.</description></item></channel></rss>
