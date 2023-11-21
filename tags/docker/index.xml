@@ -3,7 +3,7 @@ Important Thanks to https://github.com/ryosms!
 Additional Diagrams Below some examples of working additional diagrams.
 BlockDiagrams http://blockdiag.com/en/index.html
 Example nwdiag You can find a lot of examples here http://blockdiag.com/en/nwdiag/nwdiag-examples.html
-blockdiag nwdiag { network dmz { address = &amp;#34;210.x.x.x/24&amp;#34; web01 [address = &amp;#34;210.</description></item><item><title>Update Nextcloud Docker instance</title><link>https://www.vincent-gou.fr/post/nextcloud_update_nextcloud_docker_instance/</link><pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/post/nextcloud_update_nextcloud_docker_instance/</guid><description>Update Nextcloud Docker instance steps This document may be used to update nextcloud instance.
+Failed to generate image: nwdiag failed: ERROR: &amp;#39;ImageDraw&amp;#39; object has no attribute &amp;#39;textsize&amp;#39; nwdiag { network dmz { address = &amp;#34;210.x.x.x/24&amp;#34; web01 [address = &amp;#34;210.x.x.1&amp;#34;]; web02 [address = &amp;#34;210.x.x.2&amp;#34;]; } network internal { address = &amp;#34;172.x.x.x/24&amp;#34;; web01 [address = &amp;#34;172.</description></item><item><title>Update Nextcloud Docker instance</title><link>https://www.vincent-gou.fr/post/nextcloud_update_nextcloud_docker_instance/</link><pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/post/nextcloud_update_nextcloud_docker_instance/</guid><description>Update Nextcloud Docker instance steps This document may be used to update nextcloud instance.
 Pre-requisities Docker
 Nextcloud instance
 Linux server

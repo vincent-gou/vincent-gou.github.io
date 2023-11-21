@@ -3,4 +3,5 @@ Customiser certaines fonctionnalités asciidoctor non intégrées par Hugo
 Utiliser un nom de domaine personnel pour son site sous GitHub Pages
 Pré-requis Git repository pour votre site Hugo
 Git repository pour les fichiers générés par Hugo
-Un nom de domaine personnel</description></item></channel></rss>
+Un nom de domaine personnel
+Accès à votre console d’administration DNS pour créer un sous-domaine et ajouter une nouvelle entrée de type CNAME</description></item></channel></rss>
