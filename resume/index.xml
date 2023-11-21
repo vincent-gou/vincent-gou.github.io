@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Resumes on vincent-gou (fr)</title><link>https://www.vincent-gou.fr/resume/</link><description>Recent content in Resumes on vincent-gou (fr)</description><generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>Tous droits reserves: Vincent Gourrierec</copyright><atom:link href="https://www.vincent-gou.fr/resume/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://www.vincent-gou.fr/resume/cv_vincent_gourrierec/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/cv_vincent_gourrierec/</guid><description>Vincent Gourrierec 21 rue Pierre Curie 44600 Saint Nazaire | +33 6 45 55 94 31 | contact@vincent-gou.fr 14/09/1979 | | Permis B
+Ingénieur Systèmes Linux / SysOps Expérience Professionnelle Freelance (Missions en cours) Unresolved directive in &amp;lt;stdin&amp;gt; - include::exp_xentara.adoc[]
+Expérience Professionnelle Freelance (Missions terminées) Unresolved directive in &amp;lt;stdin&amp;gt; - include::exp_innexa.adoc[] Unresolved directive in &amp;lt;stdin&amp;gt; - include::exp_vecteur-plus.adoc[]
+Academic Record 2009–2014 University of Vienna, Bachelor of Computer Science. Vienna, Austria Computer Science Society Vice-President 2013-2014 Chess Club President 2012-2013</description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_innexa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_innexa/</guid><description> Mai 2023 Novembre 2023 Consultant Linux et DevOps Open IT BZH pour INNEXA, Vannes, Télétravail partiel
+Participation aux réunions de lancement, en tant que référent technique (INFRA / Systèmes / CI/CD)
+Sécurisation Infra de dev sous ProxMox (Proxy SSH / Firewall / Fail2ban / Nginx )
+Containerisation et sécurisation stack de dev Axelor
+Controle et tests deploiement Infra Axelor via pipeline Gitlab
+Tip Proxmox | Gitlab | Nginx | Ssh Tunnels | Linux</description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_vecteur-plus/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_vecteur-plus/</guid><description>Nov 2022 Oct 2023 Ingénieur Linux ASTEK pour Vecteur-Plus, Bouguenais, Télétravail partiel
+Administration et maintien en conditions opérationnels de + 50 serveurs Linux en support à l’administrateur sur place.
+Mise en place de centralisation de logs LOKI + Grafana
+Mise en place Cluster GlusterFS
+Gestion de la configuration centralisée via ansible
+Amélioration de la sécurité des clés SSH
+Versionning et centralisation des outils d’administrations sous GIT
+Gestion des versions OS et upgrade</description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_xentara/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_xentara/</guid><description> Avril 2022 Grafana designer Xentara, Munich (Allemagne), Télétravail total
+Analyse de données Industrie ( PLC / COBOT )
+Design Dashboard Grafana avec besoins EOO / Andon
+Développement requêtes InfluxDB Flux
+Gestion dashops dashboard multi clients / machine / template et variablisation
+Tip InfluxDB | Grafana | InfluxDB Flux | DashOps | Design</description></item></channel></rss>
