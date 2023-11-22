@@ -1,19 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Resumes on vincent-gou (fr)</title><link>https://www.vincent-gou.fr/resume/</link><description>Recent content in Resumes on vincent-gou (fr)</description><generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>Tous droits reserves: Vincent Gourrierec</copyright><atom:link href="https://www.vincent-gou.fr/resume/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://www.vincent-gou.fr/resume/cv_vincent_gourrierec/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/cv_vincent_gourrierec/</guid><description>Vincent Gourrierec 21 rue Pierre Curie 44600 Saint Nazaire | +33 6 45 55 94 31 | contact@vincent-gou.fr 14/09/1979 | | Permis B
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Resumes on vincent-gou (fr)</title><link>https://www.vincent-gou.fr/resume/</link><description>Recent content in Resumes on vincent-gou (fr)</description><generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>Tous droits reserves: Vincent Gourrierec</copyright><atom:link href="https://www.vincent-gou.fr/resume/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://www.vincent-gou.fr/resume/cv_vincent_gourrierec/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/cv_vincent_gourrierec/</guid><description>Vincent Gourrierec
+Adresse: 21 rue Pierre Curie 44600 Saint Nazaire
+Date naissance: 14/09/1979
++33 6 45 55 94 31
+contact@vincent-gou.fr
+2 Enfants Permis B
 Ingénieur Systèmes Linux / SysOps Expérience Professionnelle Freelance (Missions en cours) Unresolved directive in &amp;lt;stdin&amp;gt; - include::exp_xentara.adoc[]
-Expérience Professionnelle Freelance (Missions terminées) Unresolved directive in &amp;lt;stdin&amp;gt; - include::exp_innexa.adoc[] Unresolved directive in &amp;lt;stdin&amp;gt; - include::exp_vecteur-plus.adoc[]
-Academic Record 2009–2014 University of Vienna, Bachelor of Computer Science. Vienna, Austria Computer Science Society Vice-President 2013-2014 Chess Club President 2012-2013</description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_innexa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_innexa/</guid><description> Mai 2023 Novembre 2023 Consultant Linux et DevOps Open IT BZH pour INNEXA, Vannes, Télétravail partiel
+Unresolved directive in &amp;lt;stdin&amp;gt; - include::exp_ssg_immo.adoc[]
+Unresolved directive in &amp;lt;stdin&amp;gt; - include::exp_polylogis.adoc[]
+Expérience Professionnelle Freelance (Missions terminées) Unresolved directive in &amp;lt;stdin&amp;gt; - include::exp_lighton.adoc[] Unresolved directive in &amp;lt;stdin&amp;gt; - include::exp_innexa.</description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_adp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_adp/</guid><description>Juin 2019 Juillet 2020 Migration Weblogic vers Tomcat ASTEK pour ADP, Carquefou, Télétravail partiel
+Analyse et pilotage du projet de migration applications Weblogic vers Tomcat (suivi technique)
+Migration serveur d’application J2EE vers Tomcat (non J2EE)
+Migration et déploiement outillage de supervision, administration Tomcat
+Suivi et pilotage plan de tests et de performances
+Pilotage des développements de certaines fonctionnalités (JMS, JDBC, JTA) et tests
+Synchronistaion et communication entre différentes équipes du client (Devs, CDP, direction)</description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_exaegis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_exaegis/</guid><description> Février 2021 Juin 2021 Administration Système Cloud privé Exaegis SAS, Tours, Télétravail total
+Inventaire architecture technique multi-cloud (AWS / OVH / OBS)
+Création d’outils d’extraction et d’inventaire de la configuration des serveurs
+Extraction de la config réseau
+Extraction des applications métiers
+Extraction des informations de sécurité (Clés SSH, sudo updates, reboot…​)
+Export CSV des informations pour être actualisées quotidiennement
+Tip Debian | Gitlab | SSH | Bash | AWS | OVH | OBS</description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_innexa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_innexa/</guid><description> Mai 2023 Novembre 2023 Consultant Linux et DevOps Open IT BZH pour INNEXA, Vannes, Télétravail partiel
 Participation aux réunions de lancement, en tant que référent technique (INFRA / Systèmes / CI/CD)
 Sécurisation Infra de dev sous ProxMox (Proxy SSH / Firewall / Fail2ban / Nginx )
 Containerisation et sécurisation stack de dev Axelor
 Controle et tests deploiement Infra Axelor via pipeline Gitlab
-Tip Proxmox | Gitlab | Nginx | Ssh Tunnels | Linux</description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_vecteur-plus/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_vecteur-plus/</guid><description>Nov 2022 Oct 2023 Ingénieur Linux ASTEK pour Vecteur-Plus, Bouguenais, Télétravail partiel
+Tip Proxmox | Gitlab | Nginx | Ssh Tunnels | Linux</description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_lighton/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_lighton/</guid><description>Janvier 2021 Décembre 2023 Ingénieur SYSOPS Fregat pour LIGHTON, Paris, Télétravail total
+MCO infrastructure sur différents Datacenter et cloud (OVH / GCP / AWS / SCaleway)
+Serveurs Linux (Ubuntu principalement et CentOS)
+Pilotage et automatisation du déploiement des serveurs par ansible et gitlab CI/CD
+supervision IT + GPUs via influxDB Cloud et Grafana Cloud + Graylog
+user onboarding et offboarding
+Projets IT:
+automatisation création Cluster SLURM sur GCP
+Build PMIX et singularity</description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_polylogis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_polylogis/</guid><description>Depuis Mars 2019 Ingénieur Systèmes Linux et Web POLYLOGIS, Suresnes, 1-2 Jours par Mois, Télétravail total
+Diverses prestations sur l’infrastructure:
+Serveurs Linux, sécurisation (SFTP/CHROOT/Best practices..) et optimisations (teaming, firmware, paramétrage stockage (LUN/LVM…​)
+Proxy Web Nginx (règles et configuration SSL)
+Certificats, multi-certificats et domaines avec redirection vers différents serveurs Web (Apache, IIS, NGINX)
+Mise en place stack analyse des logs serveurs LINUX via Docker / Grafana / Loki / Promtail (connexions SSH / authentification / mise à jour système / PTY and TTY commands / erreurs systeme…​)</description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_ssg_immo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_ssg_immo/</guid><description>Depuis Janvier 2019 Ingénieur Systèmes et Consultant SI SopraSteria Division Immobilière, Nantes, 1-2 Jours Semaine, Télétravail total
+Prestations d’intégration de modules complémentaires WEB et mobile à l’ERP.
+Prestations d’expertise en performances et sécurité sur l’ERP édité par la société.
+Études et préconisations architectures sécurisés et performantes sur infrastructure hétérogène (IAAS, on Premise, Mixed)
+Optimisations de Workflow divers (Archivage, Impression, déploiement).
+Déploiement architecture observabilité (Stack TIK+GL) Telegraf / InfluxDB / Kapacitor + Grafana / Loki</description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_vecteur-plus/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_vecteur-plus/</guid><description>Nov 2022 Oct 2023 Ingénieur Linux ASTEK pour Vecteur-Plus, Bouguenais, Télétravail partiel
 Administration et maintien en conditions opérationnels de + 50 serveurs Linux en support à l’administrateur sur place.
 Mise en place de centralisation de logs LOKI + Grafana
 Mise en place Cluster GlusterFS
 Gestion de la configuration centralisée via ansible
 Amélioration de la sécurité des clés SSH
 Versionning et centralisation des outils d’administrations sous GIT
-Gestion des versions OS et upgrade</description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_xentara/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_xentara/</guid><description> Avril 2022 Grafana designer Xentara, Munich (Allemagne), Télétravail total
+Gestion des versions OS et upgrade</description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_xentara/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_xentara/</guid><description> Depuis Avril 2022 Grafana designer Xentara, Munich (Allemagne), 1-2 Jours Semaine, Télétravail total
 Analyse de données Industrie ( PLC / COBOT )
 Design Dashboard Grafana avec besoins EOO / Andon
 Développement requêtes InfluxDB Flux
