@@ -1,4 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Resumes on vincent-gou (fr)</title><link>https://www.vincent-gou.fr/resume/</link><description>Recent content in Resumes on vincent-gou (fr)</description><generator>Hugo</generator><language>fr</language><copyright>Tous droits reserves: Vincent Gourrierec</copyright><atom:link href="https://www.vincent-gou.fr/resume/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://www.vincent-gou.fr/resume/en/exp_adp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/en/exp_adp/</guid><description>&lt;div class="hdlist">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Resumes on vincent-gou (fr)</title><link>https://www.vincent-gou.fr/resume/</link><description>Recent content in Resumes on vincent-gou (fr)</description><generator>Hugo</generator><language>fr</language><copyright>Tous droits reserves: Vincent Gourrierec</copyright><lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.vincent-gou.fr/resume/index.xml" rel="self" type="application/rss+xml"/><item><title>Vincent Gourrierec</title><link>https://www.vincent-gou.fr/resume/vincent_gourrierec/</link><pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/vincent_gourrierec/</guid><description>&lt;table class="tableblock frame-none grid-none stretch">
+&lt;colgroup>
+&lt;col style="width: 50%;"/>
+&lt;col style="width: 50%;"/>
+&lt;/colgroup>
+&lt;tbody>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;strong>Vincent Gourrierec&lt;/strong>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top" rowspan="6">&lt;div class="content">&lt;div class="imageblock right text-top">
+&lt;div class="content">
+&lt;img src="../../images/vincent_photo_resized.png" alt="Vincent" width="30%" height="100"/>
+&lt;/div>
+&lt;/div>&lt;/div>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">21 rue Pierre Curie 44600 Saint Nazaire&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Date de naissance: 14/09/1979&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;span class="image">&lt;img src="../../images/cell_phone.png" alt="15" width="15"/>&lt;/span> +33 6 45 55 94 31&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;span class="image">&lt;img src="../../images/mail.png" alt="15" width="15"/>&lt;/span> &lt;a href="mailto:contact@vincent-gou.fr">contact@vincent-gou.fr&lt;/a>&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;span class="image">&lt;img src="../../images/baby.png" alt="15" width="15"/>&lt;/span> 2 Enfants &lt;span class="image">&lt;img src="../../images/car.png" alt="20" width="20"/>&lt;/span> Permis B&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;div class="paragraph">
+&lt;p>PDF: &lt;a href="../vincent_gourrierec_fr.pdf">Télécharger le PDF&lt;/a>&lt;/p>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_ingénieur_systèmes_linux_sysops">1. Ingénieur Systèmes Linux / SysOps&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="sect2">
+&lt;h3 id="work-experience">1.1. Expérience Professionnelle Freelance (Missions en cours)&lt;/h3>
+&lt;hr/>
+&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+Depuis &lt;sub>Janvier&lt;/sub> 2019
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Ingénieur Systèmes&lt;/strong>
+&lt;em>SopraSteria Division Immobilière, Nantes, 1-2 Jours Semaine, Télétravail total&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/en/exp_adp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/en/exp_adp/</guid><description>&lt;div class="hdlist">
 &lt;table>
 &lt;tbody>&lt;tr>
 &lt;td class="hdlist1">
@@ -1503,53 +1555,4 @@ InfluxDB | Grafana | InfluxDB Flux | DashOps | Design
 &lt;/tbody>&lt;/table>
 &lt;/div>
 &lt;/div>
-&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/vincent_gourrierec/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/vincent_gourrierec/</guid><description>&lt;table class="tableblock frame-none grid-none stretch">
-&lt;colgroup>
-&lt;col style="width: 50%;"/>
-&lt;col style="width: 50%;"/>
-&lt;/colgroup>
-&lt;tbody>
-&lt;tr>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;strong>Vincent Gourrierec&lt;/strong>&lt;/p>&lt;/td>
-&lt;td class="tableblock halign-left valign-top" rowspan="6">&lt;div class="content">&lt;div class="imageblock right text-top">
-&lt;div class="content">
-&lt;img src="vincent_photo_resized.png" alt="Vincent" width="30%" height="100"/>
-&lt;/div>
-&lt;/div>&lt;/div>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">21 rue Pierre Curie 44600 Saint Nazaire&lt;/p>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Date de naissance: 14/09/1979&lt;/p>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;span class="image">&lt;img src="cell_phone.png" alt="15" width="15"/>&lt;/span> +33 6 45 55 94 31&lt;/p>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;span class="image">&lt;img src="mail.png" alt="15" width="15"/>&lt;/span> &lt;a href="mailto:contact@vincent-gou.fr">contact@vincent-gou.fr&lt;/a>&lt;/p>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;span class="image">&lt;img src="baby.png" alt="15" width="15"/>&lt;/span> 2 Enfants &lt;span class="image">&lt;img src="car.png" alt="20" width="20"/>&lt;/span> Permis B&lt;/p>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;div class="sect1">
-&lt;h2 id="_ingénieur_systèmes_linux_sysops">Ingénieur Systèmes Linux / SysOps&lt;/h2>
-&lt;div class="sectionbody">
-&lt;div class="sect2">
-&lt;h3 id="work-experience">Expérience Professionnelle Freelance (Missions en cours)&lt;/h3>
-&lt;hr/>
-&lt;div class="hdlist">
-&lt;table>
-&lt;tbody>&lt;tr>
-&lt;td class="hdlist1">
-Depuis &lt;sub>Janvier&lt;/sub> 2019
-&lt;/td>
-&lt;td class="hdlist2">
-&lt;p>&lt;strong>Ingénieur Systèmes&lt;/strong>
-&lt;em>SopraSteria Division Immobilière, Nantes, 1-2 Jours Semaine, Télétravail total&lt;/em>&lt;/p>
-&lt;/td>
-&lt;/tr>
-&lt;/tbody>&lt;/table>
 &lt;/div></description></item></channel></rss>
