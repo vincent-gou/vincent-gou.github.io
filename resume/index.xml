@@ -1,92 +1,1555 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Resumes on vincent-gou (fr)</title><link>https://www.vincent-gou.fr/resume/</link><description>Recent content in Resumes on vincent-gou (fr)</description><generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>Tous droits reserves: Vincent Gourrierec</copyright><atom:link href="https://www.vincent-gou.fr/resume/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://www.vincent-gou.fr/resume/exp_adp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_adp/</guid><description>Juin 2019 Juillet 2020 Migration Weblogic vers Tomcat ASTEK pour ADP, Carquefou, Télétravail partiel (50%)
-Analyse et pilotage du projet de migration applications Weblogic vers Tomcat (suivi technique)
-Migration serveur d’application J2EE vers Tomcat (non J2EE)
-Migration et déploiement outillage de supervision, administration Tomcat
-Suivi et pilotage plan de tests et de performances
-Pilotage des développements de certaines fonctionnalités (JMS, JDBC, JTA) et tests
-Synchronistaion et communication entre différentes équipes du client (Devs, CDP, direction)</description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_exaegis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_exaegis/</guid><description> Février 2021 Juin 2021 Administration Système Cloud privé Exaegis SAS, Tours, Télétravail total
-Inventaire architecture technique multi-cloud (AWS / OVH / OBS)
-Création d’outils d’extraction et d’inventaire de la configuration des serveurs
-Extraction de la config réseau
-Extraction des applications métiers
-Extraction des informations de sécurité (Clés SSH, sudo updates, reboot…​)
-Export CSV des informations pour être actualisées quotidiennement
-Tip Debian | Gitlab | SSH | Bash | AWS | OVH | OBS</description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_innexa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_innexa/</guid><description> Mai 2023 Novembre 2023 Consultant Linux et DevOps Open IT BZH pour INNEXA, Vannes, Télétravail partiel (90%)
-Participation aux réunions de lancement, en tant que référent technique (INFRA / Systèmes / CI/CD)
-Sécurisation Infra de dev sous ProxMox (Proxy SSH / Firewall / Fail2ban / Nginx )
-Containerisation et sécurisation stack de dev Axelor
-Controle et tests deploiement Infra Axelor via pipeline Gitlab
-Tip Proxmox | Gitlab | Nginx | Ssh Tunnels | Linux</description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_lighton/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_lighton/</guid><description>Janvier 2021 Décembre 2023 Ingénieur SYSOPS Fregat pour LIGHTON, Paris, Télétravail total et quelques intervention sur site
-MCO infrastructure sur différents Datacenter et cloud (OVH / GCP / AWS / SCaleway)
-Serveurs Linux (Ubuntu principalement et CentOS)
-Pilotage et automatisation du déploiement des serveurs par ansible et gitlab CI/CD
-supervision IT + GPUs via influxDB Cloud et Grafana Cloud + Graylog
-user onboarding et offboarding
-Projets IT:
-automatisation création Cluster SLURM sur GCP</description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_microdon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_microdon/</guid><description> Mai 2022 Juillet 2022 Expert Grafana / Loki MICRODON, Paris, Télétravail total
-Analyse supervision existante sur infra GKE ( Grafana / Prometheus / Git / Terraform / PostgreSQL)
-Déploiement loki sur infra GKE
-Développement et deploiement requetes spécifiques pour statistiques métiers (PostegreSQL et exporter )
-Création de dashboard Grafana et alertes métiers sur les logs (Loki) et métriques (Prometheus)
-Tip Prometheus | Loki | GCP | Grafana | GKE | SQL</description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_polylogis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_polylogis/</guid><description>Depuis Mars 2019 Ingénieur Systèmes Linux et Web POLYLOGIS, Suresnes, 1-2 Jours par Mois, Télétravail total
-Diverses prestations sur l’infrastructure:
-Serveurs Linux, sécurisation (SFTP/CHROOT/Best practices..) et optimisations (teaming, firmware, paramétrage stockage (LUN/LVM…​)
-Proxy Web Nginx (règles et configuration SSL)
-Certificats, multi-certificats et domaines avec redirection vers différents serveurs Web (Apache, IIS, NGINX)
-Mise en place stack analyse des logs serveurs LINUX via Docker / Grafana / Loki / Promtail (connexions SSH / authentification / mise à jour système / PTY and TTY commands / erreurs systeme…​)</description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_salarie_cassiopae_re/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_salarie_cassiopae_re/</guid><description>Novembre 2010 Novembre 2016 Ingénieur Systèmes CassiopaeRE, Nantes, Télétravail Partiel (25%)
-Gestion de projets Systèmes, étude, analyse du déploiement de nos solutions et documentation.
-Installation des produits édités par la société (Technologies Tomcat, Weblogic, Java, Oracle et Progress).
-Migration des serveurs et des bases de données (principalement vers Red Hat, Windows 2008 et virtualisation de serveurs via VmWare).
-Étude et mise en place d’outils de performances et montée en charge (Neoload) pour les serveurs d’applications Tomcat / Weblogic / Oracle ADF / WebServices.</description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_salarie_dcs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_salarie_dcs/</guid><description> Avril 2003 Février 2004 Technicien de maintenance DCS Automotive, Saint Nazaire, Présentiel
-Prise en charge des appels techniques, support niveau I et II, sur Windows, Aix et Linux
-Administration du parc informatique interne (50 postes, 10 serveurs).
-Tip AIX | OpenEdge | Red Hat | Unix SCO | Cisco Mars 2003 Avril 2003 Stage DCS Automotive, Saint Nazaire, Présentiel
-Stage de fin de formation Technicien Micro et Web
-Tip AIX | OpenEdge | Cisco</description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_salarie_reynolds/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_salarie_reynolds/</guid><description>Février 2004 Décembre 2006 Installateur Technique Reynold’s and Reynold’s, Saint Nazaire, Présentiel
-Suivi, préparation et mise en production d’un projet de sécurisation des communications entre le constructeur et son réseau de concessionnaire (Iptables et VPN).
-Support Technique niveau II sur Aix, Red Hat et le réseau, niveau II Progress OpenEdge.
-Tests, mise en conformité, documentation du logiciel sous Red Hat 8.0 puis sous Red Hat ES 3 et mise en production.</description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_salarie_service_pilot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_salarie_service_pilot/</guid><description> Octobre 2018 Ingénieur Systèmes Supervision ServicePilot, Pornichet, Présentiel
-Déploiement Logiciel de supervision
-Intégration Supervision (SNMP/WMI/TOIP/VOIP)
-Optimisation Linux
-Tip Linux | SNMP | Windows</description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_salarie_sigma/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_salarie_sigma/</guid><description> Mars 2010 Novembre 2010 Ingénieur Systèmes Unix Sigma, Nantes, Télétravail Partiel (20%)
-Administration/Exploitation des systèmes Unix et Linux,
-Administration /Exploitation des bases de données Oracle, Progress et PostgreSQL.
-Mise en place de scripts de supervision Nagios.
-Administration et optimisation plateforme Progress Sonic (Flux ESB)
-Tip Unix | Linux | Sonic ESB | Nagios | Oracle</description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_salarie_sneda/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_salarie_sneda/</guid><description>Décembre 2006 Mars 2010 Ingénieur Systèmes Sneda, Nantes, Télétravail Partiel (25%)
-Préparation, installation et suivi des installations techniques informatiques du parc client attribué.
-Installation des produits édités par la société en mode client-serveur ou n-tiers (apache, tomcat, Java, Oracle et Progress).
-Migration des serveurs et des bases de données (AIX, Red Hat, Windows 2003, Oracle 10G et OpenEdge 10, Citrix…).
-Audit et conseils système et réseau du parc client, mise en place d’outils de supervision et de gestion (OCSInventory/GLPI, Nagios/Centreon).</description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_salarie_sopra_steria/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_salarie_sopra_steria/</guid><description> Décembre 2016 Octobre 2018 Responsable Equipe Ingénieur(e)s Systèmes Sopra Steria, Nantes, Télétravail Partiel (50%)
-Gestion d’une équipe d’ingénieurs système et gestion des projets systèmes
-Déploiement de projets à l’international
-Intégration dans équipe DevOps et responsabilité principal des sujets :
-Supervision (Centreon)
-Documentation (Confluence) avec automoatisation et templates
-Automatisation des outils de déploiement (Jenkins / Ant)
-Déploiement ERP (immobilier et finance)
-Tip Centreon | DevOps | Docker | Oracle | API | Management</description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_ssg_immo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_ssg_immo/</guid><description>Depuis Janvier 2019 Ingénieur Systèmes SopraSteria Division Immobilière, Nantes, 1-2 Jours Semaine, Télétravail total
-Prestations d’intégration de modules complémentaires WEB et mobile à l’ERP.
-Prestations d’expertise en performances et sécurité sur l’ERP édité par la société.
-Études et préconisations architectures sécurisés et performantes sur infrastructure hétérogène (IAAS, on Premise, Mixed)
-Optimisations de Workflow divers (Archivage, Impression, déploiement).
-Déploiement architecture observabilité (Stack TIK+GL) Telegraf / InfluxDB / Kapacitor + Grafana / Loki</description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_vecteur-plus/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_vecteur-plus/</guid><description>Novembre 2022 Octobre 2023 Ingénieur Linux ASTEK pour Vecteur-Plus, Bouguenais, Télétravail partiel (90%)
-Administration et maintien en conditions opérationnels de + 50 serveurs Linux en support à l’administrateur sur place.
-Mise en place de centralisation de logs LOKI + Grafana
-Mise en place Cluster GlusterFS
-Gestion de la configuration centralisée via ansible
-Amélioration de la sécurité des clés SSH
-Versionning et centralisation des outils d’administrations sous GIT
-Gestion des versions OS et upgrade</description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_xentara/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_xentara/</guid><description> Depuis Avril 2022 Grafana designer Xentara, Munich (Allemagne), 1-2 Jours Semaine, Télétravail total
-Analyse de données Industrie ( PLC / COBOT )
-Design Dashboard Grafana avec besoins OEE / Andon
-Développement requêtes InfluxDB Flux
-Gestion dashops dashboard multi clients / machine / template et variablisation
-Tip InfluxDB | Grafana | InfluxDB Flux | DashOps | Design</description></item><item><title/><link>https://www.vincent-gou.fr/resume/vincent_gourrierec/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/vincent_gourrierec/</guid><description>title: &amp;#34;CV Vincent Gourrierec&amp;#34; authors: - Vincent Gourrierec date: 2024-03-19 tags: [&amp;#34;resume&amp;#34;,&amp;#34;cv&amp;#34;] categories: [&amp;#34;resume&amp;#34;] draft: false keywords: - vincent-gou.fr - vincent gourrierec - saint nazaire - github - hugo - asciidoctor - devops - build — Vincent Gourrierec
-21 rue Pierre Curie 44600 Saint Nazaire
-Date de naissance: 14/09/1979
-+33 6 45 55 94 31
-contact@vincent-gou.fr
-2 Enfants Permis B
-Ingénieur Systèmes Linux / SysOps Expérience Professionnelle Freelance (Missions en cours) Depuis Avril 2022 Grafana designer Xentara, Munich (Allemagne), 1-2 Jours Semaine, Télétravail total</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Resumes on vincent-gou (fr)</title><link>https://www.vincent-gou.fr/resume/</link><description>Recent content in Resumes on vincent-gou (fr)</description><generator>Hugo</generator><language>fr</language><copyright>Tous droits reserves: Vincent Gourrierec</copyright><atom:link href="https://www.vincent-gou.fr/resume/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://www.vincent-gou.fr/resume/en/exp_adp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/en/exp_adp/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>June&lt;/sub> 2019 to &lt;sub>Jully&lt;/sub> 2020
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Weblogic to Tomcat Migration project&lt;/strong>
+&lt;em>ASTEK for ADP, Carquefou, Partial remote (50%)&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Analysis and management of the Weblogic applications migration project to Tomcat (technical monitoring)&lt;/p>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>J2EE application server migration to Tomcat (non-J2EE)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Migration and deployment of supervision tools, Tomcat administration&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Monitoring and management of test and performance plans&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Management of the development of certain functionalities (JMS, JDBC, JTA) and tests&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Synchronization and communication between different client teams (Devs, CDP, management)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/en/exp_datalab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/en/exp_datalab/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>Jully&lt;/sub> 2024 to &lt;sub>September&lt;/sub> 2024
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>SYSOPS Ingeener&lt;/strong>
+&lt;em>Datalab, Paris, 2 days by week, Full remote and a few days on premise&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Infrastructure MCO on different Datacenters (OUTSCALE)&lt;/p>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Linux servers (Ubuntu)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Management and automation of server deployment using ansible and gitlab CI/CD&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>IT monitoring + GPUs via influxDB and Grafana + LOKI&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>user onboarding and offboarding&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/li>
+&lt;li>
+&lt;p>IT projects:&lt;/p>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Stack VLLM creation automation (Models / API / Auth…​)&lt;/p>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Job supervision / GPUS / quotas and batches&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/en/exp_exaegis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/en/exp_exaegis/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>February&lt;/sub> 2021 to &lt;sub>June&lt;/sub> 2021
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Private Cloud System Administration&lt;/strong>
+&lt;em>Exaegis SAS, Tours, Full remote&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Multi-cloud technical architecture inventory (AWS / OVH / OBS)&lt;/p>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Creation of server configuration extraction and inventory tools
+**Extracting the network config&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Extraction of business applications&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Extraction of security information (SSH keys, sudo updates, reboot…​)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>CSV export of information to be updated daily&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="admonitionblock tip">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="icon">
+&lt;div class="title">Tip&lt;/div>
+&lt;/td>
+&lt;td class="content">
+Debian | Gitlab | SSH | Bash | AWS | OVH | OBS
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/en/exp_innexa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/en/exp_innexa/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>May&lt;/sub> 2023 to &lt;sub>November&lt;/sub> 2023
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Linux and DevOps Consultant&lt;/strong>
+&lt;em>Open IT BZH for INNEXA, Vannes, Partial remote (90%)&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Participation in launch meetings, as technical referent (INFRA / Systems / CI/CD)&lt;br/>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Infra dev security under ProxMox (SSH Proxy / Firewall / Fail2ban / Nginx)&lt;br/>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Containerization and security of Axelor dev stack&lt;br/>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Control and testing of Infra Axelor deployment via Gitlab pipeline&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="admonitionblock tip">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="icon">
+&lt;div class="title">Tip&lt;/div>
+&lt;/td>
+&lt;td class="content">
+Proxmox | Gitlab | Nginx | Ssh Tunnels | Linux
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/en/exp_lighton/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/en/exp_lighton/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>January&lt;/sub> 2021 to &lt;sub>June&lt;/sub> 2024
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>SYSOPS Ingeener&lt;/strong>
+&lt;em>Fregat for LIGHTON, Paris, Full remote and a few days on premise&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>MCO infrastructure on different Datacenters and clouds (OVH / GCP / AWS / SCaleway)&lt;/p>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Linux servers (mainly Ubuntu and CentOS)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Management and automation of server deployment using ansible and gitlab CI/CD&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>IT supervision + GPUs via influxDB Cloud and Grafana Cloud + Graylog&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>user onboarding and offboarding&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/li>
+&lt;li>
+&lt;p>IT projects:&lt;/p>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>automation of Cluster SLURM creation on GCP&lt;/p>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Build PMIX and singularity&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Job supervision / GPUS / quotas and batches&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/en/exp_microdon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/en/exp_microdon/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>May&lt;/sub> 2022 to &lt;sub>Jully&lt;/sub> 2022
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Grafana / Loki expert&lt;/strong>
+&lt;em>MICRODON, Paris, Full remote&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Existing supervision analysis on GKE infrastructure (Grafana / Prometheus / Git / Terraform / PostgreSQL)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Loki deployment on GKE infra&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Development and deployment of specific queries for business statistics (PostegreSQL and export)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Creation of Grafana dashboard and business alerts on logs (Loki) and metrics (Prometheus)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="admonitionblock tip">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="icon">
+&lt;div class="title">Tip&lt;/div>
+&lt;/td>
+&lt;td class="content">
+Prometheus | Loki | GCP | Grafana | GKE | SQL
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/en/exp_polylogis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/en/exp_polylogis/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+Since &lt;sub>March&lt;/sub> 2019
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Linx and Web system Ingeener&lt;/strong>
+&lt;em>POLYLOGIS, Suresnes, 1-2 days by months, Full remote&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Various infrastructure services:&lt;/p>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Linux servers, security (SFTP/CHROOT/Best practices, etc.) and optimizations (teaming, firmware, storage settings (LUN/LVM, etc.)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nginx Web Proxy (SSL rules and configuration)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Certificates, multi-certificates and domains with redirection to different web servers (Apache, IIS, NGINX)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Implementation stack analysis of LINUX server logs via Docker / Grafana / Loki / Promtail (SSH connections / authentication / system update / PTY and TTY commands / system errors…​)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/en/exp_salarie_cassiopae_re/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/en/exp_salarie_cassiopae_re/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>November&lt;/sub> 2010 to &lt;sub>November&lt;/sub> 2016
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Systems Ingeener&lt;/strong>
+&lt;em>CassiopaeRE, Nantes, Partial remote (25%)&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Systems project management, study, analysis of the deployment of our solutions and documentation.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Installation of products published by the company (Tomcat, Weblogic, Java, Oracle and Progress technologies).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Migration of servers and databases (mainly to Red Hat, Windows 2008 and server virtualization via VmWare).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Study and implementation of performance and load scaling tools (Neoload) for Tomcat / Weblogic / Oracle ADF / WebServices application servers.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Implementation of supervision tool (Centreon / Nagios)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Technical documentation and documentation platform administration (Mediawiki / Confluence / Sphinx)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/en/exp_salarie_dcs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/en/exp_salarie_dcs/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>April&lt;/sub> 2003 to &lt;sub>February&lt;/sub> 2004
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Maintenance Technician&lt;/strong>
+&lt;em>DCS Automotive, Saint Nazaire, On premise&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Support for technical calls, level I and II support, on Windows, Aix and Linux&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Administration of the internal IT equipment (50 stations, 10 servers).&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="admonitionblock tip">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="icon">
+&lt;div class="title">Tip&lt;/div>
+&lt;/td>
+&lt;td class="content">
+AIX | OpenEdge | Red Hat | Unix SCO | Cisco
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>March&lt;/sub> 2003 to &lt;sub>April&lt;/sub> 2003
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Internship&lt;/strong>
+&lt;em>DCS Automotive, Saint Nazaire, On premise&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>End of Micro and Web Technician training course&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/en/exp_salarie_reynolds/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/en/exp_salarie_reynolds/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>February&lt;/sub> 2004 to &lt;sub>December&lt;/sub> 2006
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Technical Installer&lt;/strong>
+&lt;em>Reynold’s and Reynold’s, Saint Nazaire, On premise&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Monitoring, preparation and production of a project to secure communications between the manufacturer and its dealer network (IPtables and VPN).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Level II Technical Support on Aix, Red Hat and the network, level II Progress OpenEdge.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Testing, compliance, documentation of the software under Red Hat 8.0 then under Red Hat ES 3 and production.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Design, installation and monitoring of multi-site network projects with France Télécom and Cegetel.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Training of technicians in AIX and Linux systems, and in the management of computer equipment.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/en/exp_salarie_service_pilot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/en/exp_salarie_service_pilot/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>October&lt;/sub> 2018
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Monitoring System Ingeener&lt;/strong>
+&lt;em>ServicePilot, Pornichet, On premise&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Deployment of supervision software&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Supervision integration (SNMP/WMI/TOIP/VOIP)
+*Linux optimization&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="admonitionblock tip">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="icon">
+&lt;div class="title">Tip&lt;/div>
+&lt;/td>
+&lt;td class="content">
+Linux | SNMP | Windows
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/en/exp_salarie_sigma/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/en/exp_salarie_sigma/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>March&lt;/sub> 2010 to &lt;sub>November&lt;/sub> 2010
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>UNIX Systems Ingeener&lt;/strong>
+&lt;em>Sigma, Nantes, Partial remote (20%)&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Administration/Operation of Unix and Linux systems,&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Administration/Operation of Oracle, Progress and PostgreSQL databases.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Implementation of Nagios supervision scripts.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Progress Sonic platform administration and optimization (ESB Flow)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="admonitionblock tip">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="icon">
+&lt;div class="title">Tip&lt;/div>
+&lt;/td>
+&lt;td class="content">
+Unix | Linux | Sonic ESB | Nagios | Oracle
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/en/exp_salarie_sneda/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/en/exp_salarie_sneda/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>December&lt;/sub> 2006 to &lt;sub>March&lt;/sub> 2010
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Systems Ingeener&lt;/strong>
+&lt;em>Sneda, Nantes, Partial remote (25%)&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Preparation, installation and monitoring of IT technical installations for the assigned customer base.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Installation of products published by the company in client-server or third-party mode (apache, tomcat, Java, Oracle and Progress).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Migration of servers and databases (AIX, Red Hat, Windows 2003, Oracle 10G and OpenEdge 10, Citrix, etc.).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>System and network audit and advice for customer base, implementation of supervision and management tools (OCSInventory/GLPI, Nagios/Centreon).&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/en/exp_salarie_sopra_steria/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/en/exp_salarie_sopra_steria/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>December&lt;/sub> 2016 to &lt;sub>October&lt;/sub> 2018
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Systems Engineer Team Manager&lt;/strong>
+&lt;em>Sopra Steria, Nantes, Partial remote (50%)&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Management of a team of systems engineers and management of systems projects&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Deployment of international projects&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Integration into DevOps team and main responsibility for subjects:&lt;/p>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Supervision (Centreon)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Documentation (Confluence) with automation and templates&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Automation of deployment tools (Jenkins / Ant)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/li>
+&lt;li>
+&lt;p>ERP deployment (real estate and finance)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="admonitionblock tip">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="icon">
+&lt;div class="title">Tip&lt;/div>
+&lt;/td>
+&lt;td class="content">
+Centreon | DevOps | Docker | Oracle | API | Management
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/en/exp_ssg_immo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/en/exp_ssg_immo/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+Since &lt;sub>January&lt;/sub> 2019
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Systems Ingeener&lt;/strong>
+&lt;em>SopraSteria Division Immobilière, Nantes, 1-2 days by week, Full remote&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Integration services for WEB and mobile add-on modules to the ERP.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Expertise services in performance and security on the ERP published by the company.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Studies and recommendations for secure and efficient architectures on heterogeneous infrastructure (IAAS, on Premise, Mixed)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Various workflow optimizations (Archiving, Printing, deployment).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Observability architecture deployment (TIK+GL stack) Telegraf / InfluxDB / Kapacitor + Grafana / Loki&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Configuration management via node-red (Node.js)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Analysis, development and deployment in Centreon of ERP supervision scripts for the internal hosting service.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/en/exp_vecteur-plus/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/en/exp_vecteur-plus/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>November&lt;/sub> 2022 to &lt;sub>October&lt;/sub> 2023
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Linux Ingeener&lt;/strong>
+&lt;em>ASTEK for Vecteur-Plus, Bouguenais, Partial remote (90%)&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Administration and maintenance in operational conditions of + 50 Linux servers in support of the administrator on site.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Implementation of LOKI + Grafana log centralization&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>GlusterFS Cluster implementation&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Centralized configuration management via ansible&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Improved SSH key security&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Versioning and centralization of administration tools under GIT&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Management of OS versions and upgrades&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="admonitionblock tip">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="icon">
+&lt;div class="title">Tip&lt;/div>
+&lt;/td>
+&lt;td class="content">
+Debian | Gitlab | Loki | SSH | GlusterFS | Grafana | Docker Swarm
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/en/exp_xentara/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/en/exp_xentara/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>April&lt;/sub> 2022 to &lt;sub>February&lt;/sub> 2024 
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Grafana designer&lt;/strong>
+&lt;em>Xentara, Munich (Germany), 1-2 days by week, Full remote&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Industry data analysis (PLC / COBOT)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Grafana Dashboard design with OEE / Andon needs&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Development of InfluxDB Flux queries&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Management of dashops dashboard multi clients / machine / template and variabilization&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="admonitionblock tip">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="icon">
+&lt;div class="title">Tip&lt;/div>
+&lt;/td>
+&lt;td class="content">
+InfluxDB | Grafana | InfluxDB Flux | DashOps | Design
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/en/vincent_gourrierec/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/en/vincent_gourrierec/</guid><description>&lt;table class="tableblock frame-none grid-none stretch">
+&lt;colgroup>
+&lt;col style="width: 50%;"/>
+&lt;col style="width: 50%;"/>
+&lt;/colgroup>
+&lt;tbody>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;strong>Vincent Gourrierec&lt;/strong>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top" rowspan="6">&lt;div class="content">&lt;div class="imageblock right text-top">
+&lt;div class="content">
+&lt;img src="vincent_photo_resized.png" alt="Vincent" width="30%" height="100"/>
+&lt;/div>
+&lt;/div>&lt;/div>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;strong>Address:&lt;/strong> 21 rue Pierre Curie 44600 Saint Nazaire, France&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;strong>Birth Date:&lt;/strong> 14/09/1979&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;span class="image">&lt;img src="cell_phone.png" alt="15" width="15"/>&lt;/span> +33 6 45 55 94 31&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;span class="image">&lt;img src="mail.png" alt="15" width="15"/>&lt;/span> &lt;a href="mailto:contact@vincent-gou.fr">contact@vincent-gou.fr&lt;/a>&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;span class="image">&lt;img src="baby.png" alt="15" width="15"/>&lt;/span> 2 childs &lt;span class="image">&lt;img src="car.png" alt="20" width="20"/>&lt;/span> Drive Licence B&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;div class="sect1">
+&lt;h2 id="_linux_systems_ingeener_sysops">Linux Systems Ingeener / SysOps&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="sect2">
+&lt;h3 id="work-experience">Freelance Professional Experience (Missions in progress)&lt;/h3>
+&lt;hr/>
+&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+Since &lt;sub>January&lt;/sub> 2019
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Systems Ingeener&lt;/strong>
+&lt;em>SopraSteria Division Immobilière, Nantes, 1-2 days by week, Full remote&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_adp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_adp/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>Juin&lt;/sub> 2019 &lt;sub>Juillet&lt;/sub> 2020
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Migration Weblogic vers Tomcat&lt;/strong>
+&lt;em>ASTEK pour ADP, Carquefou, Télétravail partiel (50%)&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Analyse et pilotage du projet de migration applications Weblogic vers Tomcat (suivi technique)&lt;/p>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Migration serveur d’application J2EE vers Tomcat (non J2EE)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Migration et déploiement outillage de supervision, administration Tomcat&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Suivi et pilotage plan de tests et de performances&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pilotage des développements de certaines fonctionnalités (JMS, JDBC, JTA) et tests&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Synchronistaion et communication entre différentes équipes du client (Devs, CDP, direction)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_datalab/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_datalab/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>Juillet&lt;/sub> 2024 &lt;sub>Septembre&lt;/sub> 2024
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Ingénieur SYSOPS&lt;/strong>
+&lt;em>Datalab, Paris, 2 Jours Semaine, Télétravail total et quelques intervention sur site&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>MCO infrastructure sur différents Datacenter (OUTSCALE)&lt;/p>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Serveurs Linux (Ubuntu)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pilotage et automatisation du déploiement des serveurs par ansible et gitlab CI/CD&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Supervision IT + GPUs via influxDB et Grafana + LOKI&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>user onboarding et offboarding&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/li>
+&lt;li>
+&lt;p>Projets IT:&lt;/p>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>automatisation création Stack VLLM (Models / API / Auth…​)&lt;/p>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Supervision jobs / GPUS / quotas et batchs&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_exaegis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_exaegis/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>Février&lt;/sub> 2021 &lt;sub>Juin&lt;/sub> 2021
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Administration Système Cloud privé&lt;/strong>
+&lt;em>Exaegis SAS, Tours, Télétravail total&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Inventaire architecture technique multi-cloud (AWS / OVH / OBS)&lt;/p>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Création d’outils d’extraction et d’inventaire de la configuration des serveurs&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Extraction de la config réseau&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Extraction des applications métiers&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Extraction des informations de sécurité (Clés SSH, sudo updates, reboot…​)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Export CSV des informations pour être actualisées quotidiennement&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="admonitionblock tip">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="icon">
+&lt;div class="title">Tip&lt;/div>
+&lt;/td>
+&lt;td class="content">
+Debian | Gitlab | SSH | Bash | AWS | OVH | OBS
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_innexa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_innexa/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>Mai&lt;/sub> 2023 &lt;sub>Novembre&lt;/sub> 2023
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Consultant Linux et DevOps&lt;/strong>
+&lt;em>Open IT BZH pour INNEXA, Vannes, Télétravail partiel (90%)&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Participation aux réunions de lancement, en tant que référent technique (INFRA / Systèmes / CI/CD)&lt;br/>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sécurisation Infra de dev sous ProxMox (Proxy SSH / Firewall / Fail2ban / Nginx )&lt;br/>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Containerisation et sécurisation stack de dev Axelor&lt;br/>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Controle et tests deploiement Infra Axelor via pipeline Gitlab&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Mise en place de sondes de supervision Zabbix&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_lighton/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_lighton/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>Janvier&lt;/sub> 2021 &lt;sub>Juin&lt;/sub> 2024
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Ingénieur SYSOPS&lt;/strong>
+&lt;em>Fregat pour LIGHTON, Paris, Télétravail total et quelques intervention sur site&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>MCO infrastructure sur différents Datacenter et cloud (OVH / GCP / AWS / SCaleway)&lt;/p>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Serveurs Linux (Ubuntu principalement et CentOS)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pilotage et automatisation du déploiement des serveurs par ansible et gitlab CI/CD&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>supervision IT + GPUs via influxDB Cloud et Grafana Cloud + Graylog&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>user onboarding et offboarding&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/li>
+&lt;li>
+&lt;p>Projets IT:&lt;/p>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>automatisation création Cluster SLURM sur GCP&lt;/p>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Build PMIX et singularity&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Supervision jobs / GPUS / quotas et batchs&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_microdon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_microdon/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>Mai&lt;/sub> 2022 &lt;sub>Juillet&lt;/sub> 2022
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Expert Grafana / Loki&lt;/strong>
+&lt;em>MICRODON, Paris, Télétravail total&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Analyse supervision existante sur infra GKE ( Grafana / Prometheus / Git / Terraform / PostgreSQL)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Déploiement loki sur infra GKE&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Développement et deploiement requetes spécifiques pour statistiques métiers (PostegreSQL et exporter )&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Création de dashboard Grafana et alertes métiers sur les logs (Loki) et métriques (Prometheus)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="admonitionblock tip">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="icon">
+&lt;div class="title">Tip&lt;/div>
+&lt;/td>
+&lt;td class="content">
+Prometheus | Loki | GCP | Grafana | GKE | SQL
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_polylogis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_polylogis/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+Depuis &lt;sub>Mars&lt;/sub> 2019
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Ingénieur Systèmes Linux et Web&lt;/strong>
+&lt;em>POLYLOGIS, Suresnes, 1-2 Jours par Mois, Télétravail total&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Diverses prestations sur l’infrastructure:&lt;/p>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Serveurs Linux, sécurisation (SFTP/CHROOT/Best practices..) et optimisations (teaming, firmware, paramétrage stockage (LUN/LVM…​)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Proxy Web Nginx (règles et configuration SSL)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Certificats, multi-certificats et domaines avec redirection vers différents serveurs Web (Apache, IIS, NGINX)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Mise en place stack analyse des logs serveurs LINUX via Docker / Grafana / Loki / Promtail (connexions SSH / authentification / mise à jour système / PTY and TTY commands / erreurs systeme…​)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_salarie_cassiopae_re/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_salarie_cassiopae_re/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>Novembre&lt;/sub> 2010 &lt;sub>Novembre&lt;/sub> 2016
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Ingénieur Systèmes&lt;/strong>
+&lt;em>CassiopaeRE, Nantes, Télétravail Partiel (25%)&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Gestion de projets Systèmes, étude, analyse du déploiement de nos solutions et documentation.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Installation des produits édités par la société (Technologies Tomcat, Weblogic, Java, Oracle et Progress).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Migration des serveurs et des bases de données (principalement vers Red Hat, Windows 2008 et virtualisation de serveurs via VmWare).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Étude et mise en place d’outils de performances et montée en charge (Neoload) pour les serveurs d’applications Tomcat / Weblogic / Oracle ADF / WebServices.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Mise en place d’outil de supervision (Centreon / Zabbix / Nagios )&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Documentation technique et administration plate-forme de documentation (Mediawiki / Confluence / Sphinx)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_salarie_dcs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_salarie_dcs/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>Avril&lt;/sub> 2003 &lt;sub>Février&lt;/sub> 2004
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Technicien de maintenance&lt;/strong>
+&lt;em>DCS Automotive, Saint Nazaire, Présentiel&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Prise en charge des appels techniques, support niveau I et II, sur Windows, Aix et Linux&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Administration du parc informatique interne (50 postes, 10 serveurs).&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="admonitionblock tip">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="icon">
+&lt;div class="title">Tip&lt;/div>
+&lt;/td>
+&lt;td class="content">
+AIX | OpenEdge | Red Hat | Unix SCO | Cisco
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>Mars&lt;/sub> 2003 &lt;sub>Avril&lt;/sub> 2003
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Stage&lt;/strong>
+&lt;em>DCS Automotive, Saint Nazaire, Présentiel&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Stage de fin de formation Technicien Micro et Web&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_salarie_reynolds/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_salarie_reynolds/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>Février&lt;/sub> 2004 &lt;sub>Décembre&lt;/sub> 2006
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Installateur Technique&lt;/strong>
+&lt;em>Reynold’s and Reynold’s, Saint Nazaire, Présentiel&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Suivi, préparation et mise en production d’un projet de sécurisation des communications entre le constructeur et son réseau de concessionnaire (Iptables et VPN).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Support Technique niveau II sur Aix, Red Hat et le réseau, niveau II Progress OpenEdge.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tests, mise en conformité, documentation du logiciel sous Red Hat 8.0 puis sous Red Hat ES 3 et mise en production.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Conception, installation et suivi de projets réseau multi sites auprès de France Télécom et Cegetel.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Formation de techniciens aux systèmes AIX et Linux, et à la gestion d’un parc informatique.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_salarie_service_pilot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_salarie_service_pilot/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>Octobre&lt;/sub> 2018
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Ingénieur Systèmes Supervision&lt;/strong>
+&lt;em>ServicePilot, Pornichet, Présentiel&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Déploiement Logiciel de supervision&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Intégration Supervision (SNMP/WMI/TOIP/VOIP)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Optimisation Linux&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="admonitionblock tip">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="icon">
+&lt;div class="title">Tip&lt;/div>
+&lt;/td>
+&lt;td class="content">
+Linux | SNMP | Windows
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_salarie_sigma/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_salarie_sigma/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>Mars&lt;/sub> 2010 &lt;sub>Novembre&lt;/sub> 2010
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Ingénieur Systèmes Unix&lt;/strong>
+&lt;em>Sigma, Nantes, Télétravail Partiel (20%)&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Administration/Exploitation des systèmes Unix et Linux,&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Administration /Exploitation des bases de données Oracle, Progress et PostgreSQL.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Mise en place de scripts de supervision Nagios.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Administration et optimisation plateforme Progress Sonic (Flux ESB)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="admonitionblock tip">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="icon">
+&lt;div class="title">Tip&lt;/div>
+&lt;/td>
+&lt;td class="content">
+Unix | Linux | Sonic ESB | Nagios | Oracle
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_salarie_sneda/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_salarie_sneda/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>Décembre&lt;/sub> 2006 &lt;sub>Mars&lt;/sub> 2010
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Ingénieur Systèmes&lt;/strong>
+&lt;em>Sneda, Nantes, Télétravail Partiel (25%)&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Préparation, installation et suivi des installations techniques informatiques du parc client attribué.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Installation des produits édités par la société en mode client-serveur ou n-tiers (apache, tomcat, Java, Oracle et Progress).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Migration des serveurs et des bases de données (AIX, Red Hat, Windows 2003, Oracle 10G et OpenEdge 10, Citrix…).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Audit et conseils système et réseau du parc client, mise en place d’outils de supervision et de gestion (OCSInventory/GLPI, Nagios/Centreon).&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_salarie_sopra_steria/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_salarie_sopra_steria/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>Décembre&lt;/sub> 2016 &lt;sub>Octobre&lt;/sub> 2018
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Responsable Equipe Ingénieur(e)s Systèmes&lt;/strong>
+&lt;em>Sopra Steria, Nantes, Télétravail Partiel (50%)&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Gestion d’une équipe d’ingénieurs système et gestion des projets systèmes&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Déploiement de projets à l’international&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Intégration dans équipe DevOps et responsabilité principal des sujets :&lt;/p>
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Supervision (Centreon)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Documentation (Confluence) avec automoatisation et templates&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Automatisation des outils de déploiement (Jenkins / Ant)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/li>
+&lt;li>
+&lt;p>Déploiement ERP (immobilier et finance)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="admonitionblock tip">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="icon">
+&lt;div class="title">Tip&lt;/div>
+&lt;/td>
+&lt;td class="content">
+Centreon | DevOps | Docker | Oracle | API | Management
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_ssg_immo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_ssg_immo/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+Depuis &lt;sub>Janvier&lt;/sub> 2019
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Ingénieur Systèmes&lt;/strong>
+&lt;em>SopraSteria Division Immobilière, Nantes, 1-2 Jours Semaine, Télétravail total&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Prestations d’intégration de modules complémentaires WEB et mobile à l’ERP.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Prestations d’expertise en performances et sécurité sur l’ERP édité par la société.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Études et préconisations architectures sécurisés et performantes sur infrastructure hétérogène (IAAS, on Premise, Mixed)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Optimisations de Workflow divers (Archivage, Impression, déploiement).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Déploiement architecture observabilité (Stack TIK+GL) Telegraf / InfluxDB / Kapacitor + Grafana / Loki&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Gestion de la configuration via node-red (Node.js)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Analyse, développement et déploiement dans Centreon de scripts de supervision des ERP pour le service d’hébergement interne.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_vecteur-plus/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_vecteur-plus/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+&lt;sub>Novembre&lt;/sub> 2022 &lt;sub>Octobre&lt;/sub> 2023
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Ingénieur Linux&lt;/strong>
+&lt;em>ASTEK pour Vecteur-Plus, Bouguenais, Télétravail partiel (90%)&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Administration et maintien en conditions opérationnels de + 50 serveurs Linux en support à l’administrateur sur place.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Mise en place de centralisation de logs LOKI + Grafana&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Mise en place Cluster GlusterFS&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Gestion de la configuration centralisée via ansible&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Amélioration de la sécurité des clés SSH&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Versionning et centralisation des outils d’administrations sous GIT&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Gestion des versions OS et upgrade&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Administration supervision Zabbix&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/exp_xentara/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/exp_xentara/</guid><description>&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+Depuis &lt;sub>Avril&lt;/sub> 2022
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Grafana designer&lt;/strong>
+&lt;em>Xentara, Munich (Allemagne), 1-2 Jours Semaine, Télétravail total&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;div class="sidebarblock">
+&lt;div class="content">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Analyse de données Industrie ( PLC / COBOT )&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Design Dashboard Grafana avec besoins OEE / Andon&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Développement requêtes InfluxDB Flux&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Gestion dashops dashboard multi clients / machine / template et variablisation&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="admonitionblock tip">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="icon">
+&lt;div class="title">Tip&lt;/div>
+&lt;/td>
+&lt;td class="content">
+InfluxDB | Grafana | InfluxDB Flux | DashOps | Design
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title/><link>https://www.vincent-gou.fr/resume/vincent_gourrierec/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/resume/vincent_gourrierec/</guid><description>&lt;table class="tableblock frame-none grid-none stretch">
+&lt;colgroup>
+&lt;col style="width: 50%;"/>
+&lt;col style="width: 50%;"/>
+&lt;/colgroup>
+&lt;tbody>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;strong>Vincent Gourrierec&lt;/strong>&lt;/p>&lt;/td>
+&lt;td class="tableblock halign-left valign-top" rowspan="6">&lt;div class="content">&lt;div class="imageblock right text-top">
+&lt;div class="content">
+&lt;img src="vincent_photo_resized.png" alt="Vincent" width="30%" height="100"/>
+&lt;/div>
+&lt;/div>&lt;/div>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">21 rue Pierre Curie 44600 Saint Nazaire&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">Date de naissance: 14/09/1979&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;span class="image">&lt;img src="cell_phone.png" alt="15" width="15"/>&lt;/span> +33 6 45 55 94 31&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;span class="image">&lt;img src="mail.png" alt="15" width="15"/>&lt;/span> &lt;a href="mailto:contact@vincent-gou.fr">contact@vincent-gou.fr&lt;/a>&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td class="tableblock halign-left valign-top">&lt;p class="tableblock">&lt;span class="image">&lt;img src="baby.png" alt="15" width="15"/>&lt;/span> 2 Enfants &lt;span class="image">&lt;img src="car.png" alt="20" width="20"/>&lt;/span> Permis B&lt;/p>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;div class="sect1">
+&lt;h2 id="_ingénieur_systèmes_linux_sysops">Ingénieur Systèmes Linux / SysOps&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="sect2">
+&lt;h3 id="work-experience">Expérience Professionnelle Freelance (Missions en cours)&lt;/h3>
+&lt;hr/>
+&lt;div class="hdlist">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="hdlist1">
+Depuis &lt;sub>Janvier&lt;/sub> 2019
+&lt;/td>
+&lt;td class="hdlist2">
+&lt;p>&lt;strong>Ingénieur Systèmes&lt;/strong>
+&lt;em>SopraSteria Division Immobilière, Nantes, 1-2 Jours Semaine, Télétravail total&lt;/em>&lt;/p>
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div></description></item></channel></rss>

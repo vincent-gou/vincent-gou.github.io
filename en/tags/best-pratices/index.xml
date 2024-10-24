@@ -1,3 +1,57 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Best-Pratices on vincent-gou (en)</title><link>https://www.vincent-gou.fr/en/tags/best-pratices/</link><description>Recent content in Best-Pratices on vincent-gou (en)</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Tous droits reserves: Vincent Gourrierec</copyright><lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.vincent-gou.fr/en/tags/best-pratices/index.xml" rel="self" type="application/rss+xml"/><item><title>CentOS or Red-Hat best pratices</title><link>https://www.vincent-gou.fr/en/post/centos-red-hat_best_practices/</link><pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/en/post/centos-red-hat_best_practices/</guid><description>Objectifs List CentOS / Red-Hat OS installation and deployment best practices
-Note Those best practices were tested on CentOS 7 and Red-Hat 7. YUM Kernels Remove manually or automatically old kernels: https://linuxconfig.org/how-to-remove-old-unused-kernels-on-centos-linux
-Network Disable IPV6 [root@test-server:] echo &amp;#34;net.ipv6.conf.all.disable_ipv6 = 1&amp;#34; &amp;gt; /etc/sysctl.d/01-disable_IPV6.conf [root@test-server:] echo &amp;#34;net.ipv6.conf.default.disable_ipv6 = 1&amp;#34; &amp;gt;&amp;gt; /etc/sysctl.d/01-disable_IPV6.conf [root@test-server:] sysctl -p [root@test-server:] echo &amp;#34;AddressFamily inet&amp;#34; &amp;gt;&amp;gt; /etc/ssh/sshd_config [root@test-server:] service sshd restart Disable NetworkManager Network Manager is installed by default and activated by default.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Best-Pratices on vincent-gou (en)</title><link>https://www.vincent-gou.fr/en/tags/best-pratices/</link><description>Recent content in Best-Pratices on vincent-gou (en)</description><generator>Hugo</generator><language>en</language><copyright>Tous droits reserves: Vincent Gourrierec</copyright><lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.vincent-gou.fr/en/tags/best-pratices/index.xml" rel="self" type="application/rss+xml"/><item><title>CentOS or Red-Hat best pratices</title><link>https://www.vincent-gou.fr/en/post/centos-red-hat_best_practices/</link><pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/en/post/centos-red-hat_best_practices/</guid><description>&lt;div class="sect1">
+&lt;h2 id="_objectifs">Objectifs&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>List CentOS / Red-Hat OS installation and deployment best practices&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="admonitionblock note">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="icon">
+&lt;div class="title">Note&lt;/div>
+&lt;/td>
+&lt;td class="content">
+Those best practices were tested on CentOS 7 and Red-Hat 7.
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_yum">YUM&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="sect2">
+&lt;h3 id="_kernels">Kernels&lt;/h3>
+&lt;div class="paragraph">
+&lt;p>Remove manually or automatically old kernels:
+&lt;a href="https://linuxconfig.org/how-to-remove-old-unused-kernels-on-centos-linux" class="bare">https://linuxconfig.org/how-to-remove-old-unused-kernels-on-centos-linux&lt;/a>&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_network">Network&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="sect2">
+&lt;h3 id="_disable_ipv6">Disable IPV6&lt;/h3>
+&lt;div class="listingblock">
+&lt;div class="content">
+&lt;pre class="highlight">&lt;code class="language-bash" data-lang="bash">[root@test-server:] echo &amp;#34;net.ipv6.conf.all.disable_ipv6 = 1&amp;#34; &amp;gt; /etc/sysctl.d/01-disable_IPV6.conf
+[root@test-server:] echo &amp;#34;net.ipv6.conf.default.disable_ipv6 = 1&amp;#34; &amp;gt;&amp;gt; /etc/sysctl.d/01-disable_IPV6.conf
+[root@test-server:] sysctl -p
+[root@test-server:] echo &amp;#34;AddressFamily inet&amp;#34; &amp;gt;&amp;gt; /etc/ssh/sshd_config
+[root@test-server:] service sshd restart&lt;/code>&lt;/pre>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect2">
+&lt;h3 id="_disable_networkmanager">Disable NetworkManager&lt;/h3>
+&lt;div class="paragraph">
+&lt;p>Network Manager is installed by default and activated by default.
+You can manage directly network config by editing /etc/sysconfig/network-scripts files.&lt;/p>
+&lt;/div></description></item></channel></rss>

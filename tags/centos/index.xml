@@ -1,3 +1,148 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CentOS on vincent-gou (fr)</title><link>https://www.vincent-gou.fr/tags/centos/</link><description>Recent content in CentOS on vincent-gou (fr)</description><generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>Tous droits reserves: Vincent Gourrierec</copyright><lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.vincent-gou.fr/tags/centos/index.xml" rel="self" type="application/rss+xml"/><item><title>Bonnes pratiques CentOS et Red Hat</title><link>https://www.vincent-gou.fr/post/centos-red-hat_best_practices/</link><pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/post/centos-red-hat_best_practices/</guid><description>Objectifs Lister les bonnes pratiques d’installation et déploiement des systèmes d’exploitation CentOS / Red-Hat
-Note Ces bonnes pratiques ont étées testées sur CentOS 7 and Red-Hat 7. YUM Kernels Supprimer manuellement ou automatiquement les anciens kernels: https://linuxconfig.org/how-to-remove-old-unused-kernels-on-centos-linux
-Partitionnement Principes de partitionnement LVM Failed to generate image: blockdiag failed: ERROR: &amp;#39;ImageDraw&amp;#39; object has no attribute &amp;#39;textsize&amp;#39; blockdiag { default_node_color = grey; default_textcolor = white; group physical_disk { textcolor = white; fontsize = 18; label = &amp;#34;Physical disk&amp;#34;; // Set group shape to &amp;#39;line group&amp;#39; (default is box) shape = line; orientation = landscape DISK1[shape = flowchart.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CentOS on vincent-gou (fr)</title><link>https://www.vincent-gou.fr/tags/centos/</link><description>Recent content in CentOS on vincent-gou (fr)</description><generator>Hugo</generator><language>fr</language><copyright>Tous droits reserves: Vincent Gourrierec</copyright><lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.vincent-gou.fr/tags/centos/index.xml" rel="self" type="application/rss+xml"/><item><title>Bonnes pratiques CentOS et Red Hat</title><link>https://www.vincent-gou.fr/post/centos-red-hat_best_practices/</link><pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate><guid>https://www.vincent-gou.fr/post/centos-red-hat_best_practices/</guid><description>&lt;div class="sect1">
+&lt;h2 id="_objectifs">Objectifs&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="ulist">
+&lt;ul>
+&lt;li>
+&lt;p>Lister les bonnes pratiques d’installation et déploiement des systèmes d’exploitation CentOS / Red-Hat&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;div class="admonitionblock note">
+&lt;table>
+&lt;tbody>&lt;tr>
+&lt;td class="icon">
+&lt;div class="title">Note&lt;/div>
+&lt;/td>
+&lt;td class="content">
+Ces bonnes pratiques ont étées testées sur CentOS 7 and Red-Hat 7.
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>&lt;/table>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_yum">YUM&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="sect2">
+&lt;h3 id="_kernels">Kernels&lt;/h3>
+&lt;div class="paragraph">
+&lt;p>Supprimer manuellement ou automatiquement les anciens kernels:
+&lt;a href="https://linuxconfig.org/how-to-remove-old-unused-kernels-on-centos-linux" class="bare">https://linuxconfig.org/how-to-remove-old-unused-kernels-on-centos-linux&lt;/a>&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class="sect1">
+&lt;h2 id="_partitionnement">Partitionnement&lt;/h2>
+&lt;div class="sectionbody">
+&lt;div class="sect2">
+&lt;h3 id="_principes_de_partitionnement_lvm">Principes de partitionnement LVM&lt;/h3>
+&lt;div class="listingblock">
+&lt;div class="content">
+&lt;pre>Failed to generate image: blockdiag failed: ERROR: &amp;#39;ImageDraw&amp;#39; object has no attribute &amp;#39;textsize&amp;#39;
+
+blockdiag {
+ default_node_color = grey;
+ default_textcolor = white;
+ group physical_disk {
+ textcolor = white;
+ fontsize = 18;
+ label = &amp;#34;Physical disk&amp;#34;;
+ // Set group shape to &amp;#39;line group&amp;#39; (default is box)
+ shape = line;
+ orientation = landscape
+ DISK1[shape = flowchart.database, label = &amp;#34;/dev/sda1 Type: 8e&amp;#34;];
+ DISK2[shape = flowchart.database, label = &amp;#34;/dev/sda2 Type: 8e&amp;#34;];
+ DISK3[shape = flowchart.database, label = &amp;#34;/dev/sdb1 Type: 8e&amp;#34;];
+ DISK4[shape = flowchart.database, label = &amp;#34;/dev/sdc1 Type: 8e&amp;#34;];
+ DISK5[shape = flowchart.database, label = &amp;#34;/dev/sdd1 Type: 8e&amp;#34;];
+ DISK6[shape = flowchart.database, label = &amp;#34;/dev/sdd2 Type: 8e&amp;#34;];
+ }
+ group pv {
+ textcolor = white;
+ fontsize = 18;
+ label = &amp;#34;Physical volume&amp;#34;;
+ // Set group shape to &amp;#39;line group&amp;#39; (default is box)
+ shape = line;
+ orientation = landscape
+ PV1[shape = flowchart.database];
+ PV2[shape = flowchart.database];
+ PV3[shape = flowchart.database];
+ PV4[shape = flowchart.database];
+ PV5[shape = flowchart.database];
+ PV6[shape = flowchart.database];
+ }
+ group vg1 {
+ textcolor = white;
+ fontsize = 18;
+ label = &amp;#34;Volume Group&amp;#34;;
+ // Set group shape to &amp;#39;line group&amp;#39; (default is box)
+ shape = line;
+ orientation = landscape
+ VG1[shape = flowchart.database];
+ }
+ group vg2 {
+ textcolor = white;
+ fontsize = 18;
+ label = &amp;#34;Volume Group&amp;#34;;
+ // Set group shape to &amp;#39;line group&amp;#39; (default is box)
+ shape = line;
+ orientation = landscape
+ VG2[shape = flowchart.database];
+ }
+ group lv {
+ textcolor = white;
+ fontsize = 18;
+ label = &amp;#34;Logical Volumes&amp;#34;;
+ // Set group shape to &amp;#39;line group&amp;#39; (default is box)
+ shape = line;
+ orientation = landscape
+ LV1[shape = flowchart.database];
+ LV2[shape = flowchart.database];
+ LV3[shape = flowchart.database];
+ LV4[shape = flowchart.database];
+ LV5[shape = flowchart.database];
+ LV6[shape = flowchart.database];
+ }
+ group fs {
+ textcolor = white;
+ fontsize = 18;
+ label = &amp;#34;File Systems&amp;#34;;
+ // Set group shape to &amp;#39;line group&amp;#39; (default is box)
+ shape = line;
+ orientation = landscape
+ FS1[shape = note, label = &amp;#34;FS1 Ext4&amp;#34;];
+ FS2[shape = note, label = &amp;#34;FS2 Ext4&amp;#34;];
+ FS3[shape = note, label = &amp;#34;FS3 XFS&amp;#34;];
+ FS4[shape = note, label = &amp;#34;FS4 XFS&amp;#34;];
+ FS5[shape = note, label = &amp;#34;FS5 XFS&amp;#34;];
+ FS6[shape = note, label = &amp;#34;FS6 Ext4&amp;#34;];
+ }
+ DISK1 &amp;lt;- PV1;
+ DISK2 &amp;lt;- PV2;
+ DISK3 &amp;lt;- PV3;
+ DISK4 &amp;lt;- PV4;
+ DISK5 &amp;lt;- PV5;
+ DISK6 &amp;lt;- PV6;
+ PV1 -&amp;gt; VG1;
+ PV2 -&amp;gt; VG1;
+ PV3 -&amp;gt; VG2;
+ PV4 -&amp;gt; VG2;
+ PV5 -&amp;gt; VG2;
+ PV6 -&amp;gt; VG2;
+ VG1 -&amp;gt; LV1;
+ VG1 -&amp;gt; LV2;
+ VG2 -&amp;gt; LV3;
+ VG2 -&amp;gt; LV4;
+ VG2 -&amp;gt; LV5;
+ VG2 -&amp;gt; LV6;
+ LV1 -&amp;gt; FS1;
+ LV2 -&amp;gt; FS2;
+ LV3 -&amp;gt; FS3;
+ LV4 -&amp;gt; FS4;
+ LV5 -&amp;gt; FS5;
+ LV6 -&amp;gt; FS6;
+}&lt;/pre>
+&lt;/div></description></item></channel></rss>
